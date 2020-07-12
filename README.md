@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://github.com/ashish493/ashish493/blob/master/github.gif" align="center" width="400"><p align="center">
 
-- Hey there! :wave:
+###Hey there! :wave:
 -  I'm Ashish, a student from IIIT-Bhubaneswar.
 -  I'm a Machine Learning Developer interested in Security Automation.
 -  I’m currently working on a project under OWASP Foundation as a part of Google Summer of Code.

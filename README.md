@@ -1,6 +1,5 @@
-<p align="center">
-![gif](https://github.com/ashish493/ashish493/blob/master/github.gif)
-</p>
+
+<p align="center"><img src="https://github.com/ashish493/ashish493/blob/master/github.gif" align="center" width="400"></p>
 
 - Hey there! :wave:
 -  I'm Ashish, a student from IIIT-Bhubaneswar.

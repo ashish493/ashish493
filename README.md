@@ -1,3 +1,6 @@
+<p align="center"><img src="https://gfycat.com/lineararidarmyant" align="center" width="400"></p>
+<iframe src='https://gfycat.com/ifr/LinearAridArmyant' frameborder='0' scrolling='no' allowfullscreen width='640' height='383'></iframe><p><a href="https://gfycat.com/discover/hi-gifs">from Hi GIFs</a> <a href="https://gfycat.com/lineararidarmyant">via Gfycat</a></p>
+
 ### Hi there 👋
 
 <!--
@@ -16,3 +19,6 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://twitter.com/D3ad_Gh0st1"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+<a href="https://open.spotify.com/user/4tvdophd9tr3l0d0e7y3yoq9x"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+<a href="https://steamcommunity.com/id/ashmal47/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
+<a href="https://medium.com/@malikashish493"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>

@@ -1,4 +1,4 @@
-<p align="center"><img src=https://github.com/ashish493/ashish493/blob/master/github.gif" align="center" width="400"></p>
+![gif](https://github.com/ashish493/ashish493/blob/master/github.gif)
 
 <!--
 **ashish493/ashish493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

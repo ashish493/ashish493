@@ -1,7 +1,4 @@
-<p align="center"><img src="https://gfycat.com/lineararidarmyant" align="center" width="400"></p>
-<iframe src='https://gfycat.com/ifr/LinearAridArmyant' frameborder='0' scrolling='no' allowfullscreen width='640' height='383'></iframe><p><a href="https://gfycat.com/discover/hi-gifs">from Hi GIFs</a> <a href="https://gfycat.com/lineararidarmyant">via Gfycat</a></p>
-
-### Hi there 👋
+<p align="center"><img src=https://github.com/ashish493/ashish493/blob/master/github.gif" align="center" width="400"></p>
 
 <!--
 **ashish493/ashish493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

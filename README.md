@@ -6,7 +6,7 @@
 -  Fun fact: I Don't have a Computer Science degree! 
 
 <p align="center">
-   ## Connect with Me on:-
+   Connect with Me on:-
   </p>
 <p align="center">
 <a href="https://twitter.com/D3ad_Gh0st1"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="50px" alt="twitter"/></a>	

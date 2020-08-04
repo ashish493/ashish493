@@ -9,7 +9,7 @@
    Connect with Me on:-
   </p>
 <p align="center">
-<a href="https://twitter.com/D3ad_Gh0st1"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="50px" alt="twitter"/></a>	
+<a href="https://twitter.com/ashishm47"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="50px" alt="twitter"/></a>	
 <a href="https://www.instagram.com/malikashish47/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="50px" alt="instagram"/></a>	
 <a href="https://open.spotify.com/user/4tvdophd9tr3l0d0e7y3yoq9x"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" width="50px" alt="spotify"/></a>	
 <a href="https://steamcommunity.com/id/ashmal47/"><img src="https://img.icons8.com/fluent/96/000000/steam.png" width="50px" alt="steam"/></a>	

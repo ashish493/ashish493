@@ -1,7 +1,7 @@
 ### Hey there! :wave:
 -  I'm Ashish, a student from IIIT-Bhubaneswar.
--  I'm a Machine Learning Developer interested in Security Automation.
--  I’m currently working on a project under OWASP Foundation as a part of Google Summer of Code.
+-  I'm a backend developer interested in Server-side technologies.
+-  At present, I’m learning about improving the server performance like scaling the API’s or like reducing the latency and also trying to learn Go. 
 -  I love travelling, gaming and Rock Music.
 -  Fun fact: I Don't have a Computer Science degree! 
 
